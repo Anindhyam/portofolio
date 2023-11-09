@@ -1,0 +1,39 @@
+body{
+    background:linear-gradient(#9a08dd 0%, #dd4c4f 40%,#7420d3 100%);
+}
+.profileimage.jpeg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileimage.jpeg{
+    width: "200";
+    padding-top: 6rem;
+}
+.profile h2{
+    color: white;
+}
+.BIODATA{
+    background-color:white ;
+    padding-bottom: 50px;
+    padding-top: 55px;
+}
+.ACHIEVEMENT {
+    padding-top: 55px;
+}
+.footer{
+    background: white;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+}
+.watermark{
+    padding-top: 30px;
+}
+.jumbotron{
+    padding-top: 6rem;
+}
